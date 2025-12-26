@@ -111,6 +111,4 @@ Both models were evaluated using:
 This project demonstrates a complete regression workflow—from data preprocessing to model evaluation—highlighting the strengths of ensemble models over traditional linear approaches.  
 XGBoost proves to be a more reliable and accurate model for this dataset.
 
----
 
-✅ **This project structure and analysis are suitable for GitHub portfolios and ML interviews.**
